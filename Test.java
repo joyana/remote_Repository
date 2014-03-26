@@ -13,6 +13,10 @@ public class Test {
 	
 	public void add(){
 		Test01 t1 = new Test01();
+		/* add joyana
+		   강광구는 아주 멋있다.
+		   김은주는 너무 이쁘다.
+		*/
 		Test01.test01_sub();
 	}
 	
